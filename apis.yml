@@ -4,7 +4,7 @@ description: >-
   Kelly Services is a global leader in providing workforce solutions, connecting
   talented people to companies in need of their skills across a variety of
   industries including staffing, talent management, and outsourcing.
-type: Company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Staffing
