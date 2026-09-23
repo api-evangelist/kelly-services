@@ -1,7 +1,9 @@
 ---
 title: Our Policies
 url: https://www.kellyservices.com/policies/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kelly Services" press release artificial intelligence'
 position: 4
 source: serpapi-google

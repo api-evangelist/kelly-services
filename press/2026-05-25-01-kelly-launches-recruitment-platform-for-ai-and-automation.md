@@ -1,7 +1,9 @@
 ---
 title: Kelly launches recruitment platform for AI and automation ...
 url: https://www.kellyservices.com/press-releases/kelly-launches-recruitment-platform-for-ai-and-automation-talent/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kelly Services" press release artificial intelligence'
 position: 1
 source: serpapi-google
